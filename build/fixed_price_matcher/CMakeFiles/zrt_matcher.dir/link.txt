@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/zrt_matcher.dir/main.cpp.o CMakeFiles/zrt_matcher.dir/zrt_matcher.cpp.o -o /Users/kaisyouu/CppProjects/bin/zrt_matcher 
